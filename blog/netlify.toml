@@ -1,0 +1,5 @@
+
+  base = "/jekyll"
+  publish = "/jekyll/_site"
+  command = "bundle exec jekyll build"
+
