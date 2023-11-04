@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Krishiv Dhanania Portfolio",
     type: "website",
-    url: "https://https://krishivdhanania.vercel.app//",
+    url: "/",
   },
 };
 
