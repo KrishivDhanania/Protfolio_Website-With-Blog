@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Krishiv Dhanania Portfolio",
     type: "website",
-    url: "https://krishivdhanania.netlify.app/",
+    url: "https://https://krishivdhanania.vercel.app//",
   },
 };
 
@@ -593,7 +593,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "krishivdhanania.netlify.app/blog",
+    link: "https://krishivdhanania.vercel.app//blog",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
